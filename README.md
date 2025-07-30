@@ -53,7 +53,7 @@ To simplify and digitize the process of booking group study rooms on campus.
 
 # PRD/feature spec :
 
-### Product: StudySpace
+### Product: StudySpace (referred) - Web app
 
 **User Stories :**
 
