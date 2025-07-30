@@ -80,11 +80,11 @@ To simplify and digitize the process of booking group study rooms on campus.
 
 Solicit collaboration from your designer to include a link to designs in Figma or upload an image that communicates how your idea might work.
 
-[Home page]()
-[Availability Page]()
-[booking Form]()
-[booking Category]()
-[booking your cabin]()
+[Home page](https://github.com/ATOM-0872/Associate-Product-Manager-internship/blob/main/Screenshot%202025-07-30%20at%2023.23.21.png?raw=true)
+[Availability Page](https://github.com/ATOM-0872/Associate-Product-Manager-internship/blob/main/Screenshot%202025-07-30%20at%2023.24.31.png?raw=true)
+[booking Form](https://github.com/ATOM-0872/Associate-Product-Manager-internship/blob/main/Screenshot%202025-07-30%20at%2023.29.02.png?raw=true)
+[booking Category](https://github.com/ATOM-0872/Associate-Product-Manager-internship/blob/main/Screenshot%202025-07-30%20at%2023.30.54.png?raw=true)
+[booking your cabin](https://github.com/ATOM-0872/Associate-Product-Manager-internship/blob/main/Screenshot%202025-07-30%20at%2023.31.28.png?raw=true)
 
 
 check out [StudySpace pages for better understand](https://www.figma.com/design/K8M13LWHB8pHnTSWjuYmJG/StudySpace-Wireframes?node-id=218-10&t=McDnXvetvBCDmp2n-1)
